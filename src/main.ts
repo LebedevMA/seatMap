@@ -14,7 +14,7 @@ function getFilePath(planeNumber: string): string {
     return `./data/${planeNumber}.json`;
 }
 
-(async () => {
+(async (): Promise<void> => {
     const planeNumber: string = process.argv[2];
 
     try{
