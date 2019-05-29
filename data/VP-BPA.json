@@ -1,0 +1,2113 @@
+{
+    "equipmentInformation": {
+      "cabinClassDetails": [
+        {
+          "numberOfSeats": "8",
+          "classDesignator": "J"
+        },
+        {
+          "numberOfSeats": "190",
+          "classDesignator": "Y"
+        }
+      ],
+      "iataAircraftTypeCode": "321"
+    },
+    "rows": [
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "B",
+              "K",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "B",
+              "I",
+              "K",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "B",
+              "K",
+              "RS",
+              "1"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "B",
+              "K",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "1"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "C",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "C",
+              "I",
+              "LS",
+              "1"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "C",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "C",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "2"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "K",
+              "L",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "K",
+              "L",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "K",
+              "L",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "K",
+              "L",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "K",
+              "L",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "K",
+              "L",
+              "O",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "3"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "1C",
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "1C",
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "1C",
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "1C",
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "1C",
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "1C",
+              "CH",
+              "O",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "4"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "5"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "I",
+              "O",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "6"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "I",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "7"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "8"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "8"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "E",
+              "IE",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "E",
+              "IE",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "E",
+              "IE",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "E",
+              "IE",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "8"
+            ]
+          }
+        ],
+        "seatRow": "9"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "L",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "L",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "10"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "11"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "O",
+              "OW",
+              "PC"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "O",
+              "OW",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "12"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "OW",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "13"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "1A",
+              "CH",
+              "IE",
+              "OW",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "14"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "I",
+              "OW",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "15"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "I",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "16"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "I",
+              "OW",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "17"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "I",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "18"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "I",
+              "OW",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "19"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "OW"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "OW",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "20"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "21"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "8"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "1D",
+              "CH",
+              "IE",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "8"
+            ]
+          }
+        ],
+        "seatRow": "22"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "L",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "L",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "L",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "L",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "L",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "1A",
+              "1B",
+              "CH",
+              "E",
+              "IE",
+              "L",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "23"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "24"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "I",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "25"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "I",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "26"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "27"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "PC",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "28"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "29"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "30"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "31"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "LS",
+              "U"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "RS",
+              "U"
+            ]
+          }
+        ],
+        "seatRow": "32"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "CH",
+              "DE",
+              "LS",
+              "U"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "CH",
+              "DE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "CH",
+              "DE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "CH",
+              "DE",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "CH",
+              "DE",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "CH",
+              "DE",
+              "RS",
+              "U"
+            ]
+          }
+        ],
+        "seatRow": "33"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "1D",
+              "7A",
+              "C",
+              "CH",
+              "DE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "1D",
+              "7A",
+              "C",
+              "CH",
+              "DE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "1D",
+              "7A",
+              "C",
+              "CH",
+              "DE",
+              "LS"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "C",
+              "CH",
+              "DE",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "C",
+              "CH",
+              "DE",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "C",
+              "CH",
+              "DE",
+              "RS",
+              "U"
+            ]
+          }
+        ],
+        "seatRow": "34"
+      },
+      {
+        "seats": [
+          {
+            "seatColumn": "A",
+            "seatCharacteristic": [
+              "8"
+            ]
+          },
+          {
+            "seatColumn": "B",
+            "seatCharacteristic": [
+              "8"
+            ]
+          },
+          {
+            "seatColumn": "C",
+            "seatCharacteristic": [
+              "8"
+            ]
+          },
+          {
+            "seatColumn": "D",
+            "seatCharacteristic": [
+              "8"
+            ]
+          },
+          {
+            "seatColumn": "E",
+            "seatCharacteristic": [
+              "1D",
+              "AL",
+              "C",
+              "CH",
+              "DE",
+              "RS"
+            ]
+          },
+          {
+            "seatColumn": "F",
+            "seatCharacteristic": [
+              "1D",
+              "AL",
+              "C",
+              "CH",
+              "DE",
+              "RS"
+            ]
+          }
+        ],
+        "seatRow": "35"
+      }
+    ],
+    "cabins": [
+      {
+        "classDetails": {
+          "classDesignator": "J",
+          "compartmentDesignator": "A"
+        },
+        "seatRowRange": {
+          "number": [
+            "1",
+            "2"
+          ]
+        },
+        "cabinZoneCode": "M",
+        "columnDetails": [
+          {
+            "seatColumn": "A",
+            "description": "W"
+          },
+          {
+            "seatColumn": "C",
+            "description": "A"
+          },
+          {
+            "seatColumn": "D",
+            "description": "A"
+          },
+          {
+            "seatColumn": "F",
+            "description": "W"
+          }
+        ],
+        "overwingSeatRowRange": null
+      },
+      {
+        "classDetails": {
+          "classDesignator": "Y",
+          "compartmentDesignator": "B"
+        },
+        "seatRowRange": {
+          "number": [
+            "3",
+            "8"
+          ]
+        },
+        "cabinZoneCode": "M",
+        "columnDetails": [
+          {
+            "seatColumn": "A",
+            "description": "W"
+          },
+          {
+            "seatColumn": "B",
+            "description": "9"
+          },
+          {
+            "seatColumn": "C",
+            "description": "A"
+          },
+          {
+            "seatColumn": "D",
+            "description": "A"
+          },
+          {
+            "seatColumn": "E",
+            "description": "9"
+          },
+          {
+            "seatColumn": "F",
+            "description": "W"
+          }
+        ],
+        "overwingSeatRowRange": null
+      },
+      {
+        "classDetails": {
+          "classDesignator": "Y",
+          "compartmentDesignator": "C"
+        },
+        "seatRowRange": {
+          "number": [
+            "9",
+            "22"
+          ]
+        },
+        "cabinZoneCode": "M",
+        "columnDetails": [
+          {
+            "seatColumn": "A",
+            "description": "W"
+          },
+          {
+            "seatColumn": "B",
+            "description": "9"
+          },
+          {
+            "seatColumn": "C",
+            "description": "A"
+          },
+          {
+            "seatColumn": "D",
+            "description": "A"
+          },
+          {
+            "seatColumn": "E",
+            "description": "9"
+          },
+          {
+            "seatColumn": "F",
+            "description": "W"
+          }
+        ],
+        "overwingSeatRowRange": {
+          "number": [
+            "12",
+            "20"
+          ]
+        }
+      },
+      {
+        "classDetails": {
+          "classDesignator": "Y",
+          "compartmentDesignator": "D"
+        },
+        "seatRowRange": {
+          "number": [
+            "23",
+            "35"
+          ]
+        },
+        "cabinZoneCode": "M",
+        "columnDetails": [
+          {
+            "seatColumn": "A",
+            "description": "W"
+          },
+          {
+            "seatColumn": "B",
+            "description": "9"
+          },
+          {
+            "seatColumn": "C",
+            "description": "A"
+          },
+          {
+            "seatColumn": "D",
+            "description": "A"
+          },
+          {
+            "seatColumn": "E",
+            "description": "9"
+          },
+          {
+            "seatColumn": "F",
+            "description": "W"
+          }
+        ],
+        "overwingSeatRowRange": null
+      }
+    ],
+    "exitRows": [
+      9,
+      10,
+      23
+    ],
+    "wings": {
+      "fromRow": "12",
+      "toRow": "20"
+    }
+  }
+  
